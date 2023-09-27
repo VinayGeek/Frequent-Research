@@ -1,0 +1,22 @@
+.containerr {
+  width: 1200px;
+  justify-content: center;
+  margin: auto;
+}
+
+.table {
+  margin-top: 50px;
+}
+
+.table-header {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.table-header th {
+  border: none;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: #f2f2f2;
+}
